@@ -6,3 +6,11 @@
 header {
     text-align: center;
 }
+
+
+#bandcamp-iframe {
+    padding: 1rem;
+    border: 0; 
+    width: 100%; 
+    height: 200px;
+}
