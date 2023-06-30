@@ -31,3 +31,23 @@ body {
 .bg-body-tertiary {
     background-color: #4F7CAC !important;
 }
+
+h1 {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+h3 {
+    margin: 0.5rem;
+    padding: 1rem;
+}
+
+p {
+    margin: 0.5rem;
+}
+
+#about-section {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
