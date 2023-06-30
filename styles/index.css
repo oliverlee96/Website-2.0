@@ -46,8 +46,33 @@ p {
     margin: 0.5rem;
 }
 
-#about-section {
+.main-text {
     margin-left: 10rem;
     margin-right: 10rem;
+    margin-bottom: 6rem;
 }
 
+.btn {
+    display: block;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #c7ebf0;
+    border: none;
+    cursor: pointer;
+}
+
+.material-symbols-sharp {
+
+    padding: 10px 20px;
+}
+
+#contact-links { 
+    margin: 3rem 3rem;
+}
+
+div p { 
+    margin: 1rem 0;
+}
